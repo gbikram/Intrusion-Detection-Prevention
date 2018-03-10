@@ -1,0 +1,190 @@
+Time: 02/18-01:26:41.185146 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 80:1025
+
+Time: 02/18-01:27:52.110044 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 53:3306
+
+Time: 02/18-01:41:49.289120 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 21:8888
+
+Time: 02/18-01:43:30.476218 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 256:8888
+
+Time: 02/18-01:44:31.717545 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 6
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 2394:50001
+
+Time: 02/18-02:32:08.253380 
+event_ref: 0
+10.0.0.30 -> 10.0.0.13 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 53:8888
+
+Time: 02/24-22:09:14.988836 
+event_ref: 0
+10.0.0.231 -> 10.0.0.15 (portscan) ICMP Sweep
+Priority Count: 648
+Connection Count: 33
+IP Count: 5
+Scanned IP Range: 10.0.0.1:10.0.0.15
+Port/Proto Count: 0
+Port/Proto Range: 0:0
+
+Time: 02/24-23:13:13.730129 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 22:5900
+
+Time: 02/24-23:51:12.634288 
+event_ref: 0
+10.0.0.30 -> 239.255.255.250 (portscan) UDP Portsweep
+Priority Count: 11
+Connection Count: 652
+IP Count: 5
+Scanned IP Range: 10.0.0.10:239.255.255.250
+Port/Proto Count: 5
+Port/Proto Range: 80:5355
+
+Time: 02/24-23:52:07.480374 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) UDP Portsweep
+Priority Count: 5
+Connection Count: 13
+IP Count: 7
+Scanned IP Range: 10.0.0.10:239.255.255.250
+Port/Proto Count: 7
+Port/Proto Range: 80:5355
+
+Time: 02/25-00:50:27.822457 
+event_ref: 0
+10.0.0.100 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.100:10.0.0.100
+Port/Proto Count: 5
+Port/Proto Range: 23:8888
+
+Time: 02/25-00:53:08.273476 
+event_ref: 0
+10.0.0.100 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.100:10.0.0.100
+Port/Proto Count: 5
+Port/Proto Range: 23:1723
+
+Time: 02/25-00:59:30.363178 
+event_ref: 0
+10.0.0.100 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 35
+IP Count: 2
+Scanner IP Range: 10.0.0.30:10.0.0.100
+Port/Proto Count: 6
+Port/Proto Range: 22:1723
+
+Time: 02/27-14:19:23.778555 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 10
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 10
+Port/Proto Range: 21:5900
+
+Time: 03/03-16:36:27.422742 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 53:1025
+
+Time: 03/03-16:40:36.499816 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 8
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 280:13456
+
+Time: 03/03-16:43:59.921016 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 135:5900
+
+Time: 03/03-16:45:00.357432 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 144:4000
+
+Time: 03/03-16:48:30.622574 
+event_ref: 0
+10.0.0.30 -> 10.0.0.10 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 10.0.0.30:10.0.0.30
+Port/Proto Count: 5
+Port/Proto Range: 80:8888
+

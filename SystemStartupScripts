@@ -1,0 +1,10 @@
+Start Swatch:
+sudo /usr/local/bin/snort -A fast -q -u snort -g snort -c /etc/snort/snort.conf -i enp0s3
+
+Compile Snort Config:
+sudo snort -T -c /etc/snort/snort.conf -i enp0s3
+
+Start Swatch:
+sudo swatch -c /home/bikram/.swatchrc -t /var/log/snort/alert
+sudo swatch -c /home/bikram/.swatchrc -t /var/log/snort/alert
+

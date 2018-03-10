@@ -1,0 +1,14 @@
+watchfor /PingFlood/ 
+threshold track_by=PingFlood,type=limit,count=1,seconds=60 
+exec /home/bikram/blockFlood.sh
+exec echo 'Ping Flood Detected'
+
+watchfor /SYNFlood/ 
+threshold track_by=SYNFlood,type=limit,count=1,seconds=60 
+exec /home/bikram/blockSyn.sh
+exec echo 'SYN Flood Detected'
+
+watchfor /Portscan/
+threshold track_by=Portscan, type=limit, count=1, seconds=60
+exec /home/bikram/blockScript.sh
+exec echo 'Port Scan Detected'
